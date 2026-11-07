@@ -1,1 +1,2 @@
-print("Hello,Git!")
+name = input("اسمت چیه؟")
+print(f"Hello,{name}!")
